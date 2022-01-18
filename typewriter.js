@@ -6,3 +6,4 @@ for (const char of sentence) {
   }, time)
   time += 50;
 }
+setTimeout(() => console.log(), time);
